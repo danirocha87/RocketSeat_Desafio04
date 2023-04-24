@@ -4,7 +4,7 @@ const students = [{
   secondNote: 7,
 },
 {
-  name: "Daniela",
+  name: "Daniel",
   firstNote: 4,
   secondNote: 3,
 },
